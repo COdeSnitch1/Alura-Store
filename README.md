@@ -1,7 +1,7 @@
 # Alura Store - Análisis de Datos
 
 ## Descripción
-Proyecto de análisis de ventas de las tiendas Alura Store.
+Proyecto de análisis de ventas de las tiendas Alura Store por Nicolas Galaz.
 
 ## Análisis realizados
 - Facturación por tienda
